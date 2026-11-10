@@ -71,4 +71,3 @@ Data: [openFDA](https://open.fda.gov/), U.S. Food and Drug Administration. openF
 
 ---
 
-Built by **Ebby Lari**, biomedical engineer working on medical devices and ISO 13485 quality systems.
